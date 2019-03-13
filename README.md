@@ -53,6 +53,6 @@ ph = s.Pinterest_Helper(<Pinterst login> , <Pinterest password>, browser)
 
 ### Created by
 
-Raulerivassanz
+[Raulerivassanz](https://github.com/raulerivassanz)
 
 License MIT
