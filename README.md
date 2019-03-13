@@ -51,3 +51,8 @@ chrome = webdriver.Chrome()
 ph = s.Pinterest_Helper(<Pinterst login> , <Pinterest password>, browser)
 ```
 
+### Created by
+
+Raulerivassanz
+
+License MIT
